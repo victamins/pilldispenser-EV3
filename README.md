@@ -11,6 +11,9 @@ Please refer to our project report for more details.
 Our robot is equipped with a dispensing mechanism, Gyro, IR and touch sensors. We are very happy with how accurately and consistently our robot performs its tasks, especially given the short timeframe for this project.
 
 # Full Run Through
+Our robot locates the patient holding an IR beacon, dispenses pills at set intervals and keeps track of the number of pills stored. (Time intervals can be changed through the file input, however is only 10 seconds for demonstration purposes). 
+
+The robot displays number of pills and the current time elapsed and also displays medication information while dispensing. 
 
 https://github.com/user-attachments/assets/7a062a51-e506-4030-94f4-babfe4fe179a
 
@@ -21,5 +24,7 @@ Notes:
     - The robot will alert the patient by beeping and waiting before returning and not dispensing on the third iteration, to prevent overmedication.
 
 # Dispensing Mechanism
+
+Here's a closeup of our pill dispensing mechanism. 
 
 https://github.com/user-attachments/assets/76fc39e5-4258-4e98-be6a-883bf0a2109e
