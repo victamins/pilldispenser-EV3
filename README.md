@@ -17,7 +17,8 @@ https://github.com/user-attachments/assets/7a062a51-e506-4030-94f4-babfe4fe179a
 Notes: 
 - The video is sped up, 2x speed. 
 - The robot waits 10s between dispenses.
-- The second dispense is an unexpected case, when the patient doesn't press the button and take the medication. The robot will alert the patient by beeping and waiting before returning and not dispensing on the third iteration, to prevent overmedication.
+- The second dispense is an unexpected case, when the patient doesn't press the button or take the medication.
+    - The robot will alert the patient by beeping and waiting before returning and not dispensing on the third iteration, to prevent overmedication.
 
 # Dispensing Mechanism
 
